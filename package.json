@@ -1,0 +1,15 @@
+{
+  "name": "XD",
+  "version": "1.0.0",
+  "description": "sıradan guard botu",
+  "main": "null.js",
+  "dependencies": {
+    "@discordjs/builders": "^1.2.0",
+    "@discordjs/rest": "^1.1.0",
+    "axios": "^0.27.2",
+    "croxydb": "^0.0.7",
+    "discord-api-types": "^0.37.6",
+    "discord.js": "^13.10.3",
+    "mongoose": "^6.6.0",
+  }
+}
